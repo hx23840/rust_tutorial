@@ -5,7 +5,7 @@ fn main() {
 
     let y = {
         let x = x + 5;
-        x + 1//;
+        x + 1
     };
 
     println!("{}", y);
